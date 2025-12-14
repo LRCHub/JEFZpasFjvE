@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "What It Is (Block Boy)",
+  "base_artist": "Doechii",
+  "createdAt": "2025-12-14T17:16:17.392455Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "What It Is (Block Boy)",
+      "artist": "Doechii",
+      "has_synced": true,
+      "path": "select/01_What_It_Is_(Block_Boy)_Doechii.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "What It Is (Block Boy)",
+      "artist": "Doechii",
+      "has_synced": true,
+      "path": "select/02_What_It_Is_(Block_Boy)_Doechii.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "What It Is (Block Boy)",
+      "artist": "Doechii",
+      "has_synced": true,
+      "path": "select/03_What_It_Is_(Block_Boy)_Doechii.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "What It Is (Block Boy) feat. Kodak Black",
+      "artist": "Doechii",
+      "has_synced": true,
+      "path": "select/04_What_It_Is_(Block_Boy)_feat._Kodak_Black_Doechii.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "What It Is (Block Boy)",
+      "artist": "Doechii",
+      "has_synced": true,
+      "path": "select/05_What_It_Is_(Block_Boy)_Doechii.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Doechii   Kodak Black - What It Is (Block Boy)",
+      "artist": "doechii",
+      "has_synced": true,
+      "path": "select/06_Doechii_Kodak_Black_-_What_It_Is_(Block_Boy)_doechii.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "What It Is (Block Boy)",
+      "artist": "doechii ft kodak black",
+      "has_synced": true,
+      "path": "select/07_What_It_Is_(Block_Boy)_doechii_ft_kodak_black.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "What It Is (Block Boy)",
+      "artist": "Doechii",
+      "has_synced": true,
+      "path": "select/08_What_It_Is_(Block_Boy)_Doechii.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "What It Is (Block Boy)",
+      "artist": "Doechii",
+      "has_synced": true,
+      "path": "select/09_What_It_Is_(Block_Boy)_Doechii.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "What It Is (Block Boy)",
+      "artist": "Doechii & Kodak Black",
+      "has_synced": true,
+      "path": "select/10_What_It_Is_(Block_Boy)_Doechii_&_Kodak_Black.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "What It Is (Block Boy) 😮",
+      "artist": "Doechii",
+      "has_synced": true,
+      "path": "select/11_What_It_Is_(Block_Boy)_😮_Doechii.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "What It Is (Block Boy) [feat. Kodak Black]",
+      "artist": "Doechii, Kodak Black",
+      "has_synced": false,
+      "path": "select/pl_01_What_It_Is_(Block_Boy)_[feat._Kodak_Black]_Doechii,_Kodak_Black.txt"
+    }
+  ]
+}
