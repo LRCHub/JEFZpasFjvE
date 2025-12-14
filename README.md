@@ -1,0 +1,88 @@
+# Doechii – What It Is (Block Boy)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:09.83] What it is? What's up?
+[00:13.49] Every good girl needs a little thug
+[00:16.19] Every block boy needs a little love
+[00:18.89] If you put it down, I'ma pick it up, up, up
+[00:40.39] 
+[00:22.16] Can't you just see it's just me and you?
+[00:24.66] Panoramic view, that's my point of view, bae
+[00:27.63] All about me, that's the energy
+[00:30.24] That's that lemon pepper thing, I'm a ten-piece, baby
+[00:56.74] 
+[00:33.24] Bedroom bully in the bando
+[00:35.42] He gon' make it flip, do it with no handles
+[00:38.37] Never switchin' sides, only switchin' angles
+[00:41.18] Ooh, we go crazy like Rambo
+[00:54.68] 
+[00:44.10] What it is? (What it is?) What's up? (What's up?)
+[00:46.84] Every good girl needs a little thug (thug)
+[00:49.60] Every block boy needs a little love (love)
+[00:52.37] If you put it down, I'ma pick it up, up, up (ay, ay)
+[00:55.86] What it is? (What it is?) What's up? (What's up?)
+[00:58.17] Every good girl needs a little thug (thug)
+[01:01.07] Every block boy needs a little love (love)
+[01:03.63] If you put it down, I'ma pick it up, up, up (ay, ay)
+[01:29.63] 
+[01:06.71] Hit 'em up, hit 'em up
+[01:09.03] In the truck, got it tucked, he get it up like it's stuck
+[01:12.31] All night, I like
+[01:14.43] You ain't gotta say it when you know it's on sight
+[01:39.43] 
+[01:17.44] She got everything he wanted, a nice body, fat
+[01:20.04] Behind every gangster, a shawty solid that got his back
+[01:22.44] He know who to come to everytime the world handlin' him bad
+[01:25.51] The way he call first, but still, he always put her last (always put her last, yeah)
+[01:28.56] I'm pourin' out this glass, my body fightin' off that gas (off that gas, yeah)
+[01:31.18] On smoke box, I k- 'em, that zaza pack kickin' my-
+[01:33.66] In the studio dosin', all I can keep from fallin' asleep
+[01:36.49] I hate that for you, ain't got no bread, but trying to beef
+[02:05.99] 
+[01:39.37] Bein' Black in America is the hardest thing to be (baby, tell me, yeah)
+[01:42.35] Every thug need a lil' love too, baby, how 'bout me?
+[01:44.88] Told her, "Don't call me a stink 'cause I smell like money"
+[01:47.54] I'm puttin' down the greatest, babe, hold this here for me
+[01:50.72] I took her from a-, we vibin', two weeks out of the country
+[01:53.52] So she had a lil' situation, but I could tell it ain't 'bout nothin'
+[01:56.28] Me and her rappin', she say, "Don't hush me", I say, "Don't rush me"
+[01:58.77] And I can tell how much she like a n- by the way she suck it, ho, what it is?
+[02:37.27] 
+[02:02.24] What it is? (What it is?) What's up? (What's up?)
+[02:04.76] Every good girl needs a little thug (thug)
+[02:07.45] Every block boy needs a little love (love)
+[02:10.75] If you put it down, I'ma pick it up, up, up (hey, hey)
+[02:13.20] What it is? (What it is?) What's up? (What's up?)
+[02:16.16] Every good girl needs a little thug (thug)
+[02:19.11] Every block boy needs a little love (love)
+[02:21.77] If you put it down, I'ma pick it up, up, up
+[02:43.27] 
+[02:24.43] I don't care if you run the streets
+[02:26.98] Long as you comin' home to me
+[02:29.71] I love the way you walk and the way you speak
+[02:32.24] He gon' keep it real, that's the deal
+[02:34.52] That's the reason that I speed down, down (down, down, down, down)
+[02:37.71] I put that all on my name
+[02:41.16] Yeah, that's an even exchange (tell me what it is)
+[02:43.46] Stay on your deal, we gon' tell 'em, we gon' tell 'em what, babe
+[03:15.46] 
+[02:47.15] What it is? What's up?
+[02:49.41] Every good girl needs a little thug (needs a little thug)
+[02:52.27] Every block boy needs a little love (needs a little love, yeah)
+[02:54.92] If you put it down, I'ma pick it up, up, up
+[02:57.99] What it is? What's up?
+[03:00.53] Every good girl needs a little thug
+[03:03.52] Every block boy needs a little love
+[03:06.07] If you put it down, I'ma pick it up, up, up (hey, hey, yeah)
+[03:36.07] 
+[03:09.89] Back it up and do, and do it like that, yeah
+[03:12.30] Back it up and do it like that, yeah
+[03:15.11] Back it up, back it and do it like that, yeah
+[03:17.92] Back it up gon' and do it like that, yeah
+[03:20.72] Hey, what it is? Hey, what's up? J. White Did It (yup, yup)
+[03:26.00] More is on the way (yup, yup, yeah)
+[03:29.09] We need a lil' love, you know what I mean? (Yeah, ayy-ayy, woo)
+[03:31.96] Ride out, whoa
+```
